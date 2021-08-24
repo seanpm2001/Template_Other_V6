@@ -60,35 +60,43 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 
 > [04.4 - Modern History](#Modern-history)
 
-[05.0 - Version history](#Version-history)
+[05.0 - Copying](#Copying)
 
-[06.0 - Software status](#Software-status)
+[06.0 - Credits](#Credits)
 
-[78.0 - Sponsor info](#Sponsor-info)
+[07.0 - Installation](#Installation)
 
-[08.0 - Contributers](#Contributers)
+[08.0 - Version history](#Version-history)
 
-[09.0 - Issues](#Issues)
+[09.0 - Version history](#Version-history)
 
-> [09.1 - Current issues](#Current-issues)
+[10.0 - Software status](#Software-status)
 
-> [09.2 - Past issues](#Past-issues)
+[11.0 - Sponsor info](#Sponsor-info)
 
-> [09.3 - Past pull requests](#Past-pull-requests)
+[12.0 - Contributers](#Contributers)
 
-> [09.4 - Active pull requests](#Active-pull-requests)
+[13.0 - Issues](#Issues)
 
-[10.0 - Resources](#Resources)
+> [13.1 - Current issues](#Current-issues)
 
-[11.0 - Contributing](#Contributing)
+> [13.2 - Past issues](#Past-issues)
 
-[12.0 - About README](#About-README)
+> [13.3 - Past pull requests](#Past-pull-requests)
 
-[13.0 - README Version history](#README-version-history)
+> [13.4 - Active pull requests](#Active-pull-requests)
 
-[14.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+[14.0 - Resources](#Resources)
 
-> [14.9 - End of file](#EOF)
+[15.0 - Contributing](#Contributing)
+
+[16.0 - About README](#About-README)
+
+[17.0 - README Version history](#README-version-history)
+
+[18.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+
+> [18.9 - End of file](#EOF)
 
 ***
 
@@ -133,6 +141,28 @@ No Modern history to show for this project.
 
 ***
 
+## Copying
+
+View the copying license for this project [here](/COPYING) (if you haven't built the project yet with the makefile, here is the original link: [COPYINGL](/COPYINGL)
+
+Please note that you also have to follow the rules of the GNU General Public License v3 (GPL3) which you can view [here](/LICENSE.txt)
+
+***
+
+## Credits
+
+View the credits file for this project and see the people who got together to make this project by [clicking/tapping here](/CREDITS)
+
+***
+
+## Installation
+
+View the installation instructions file for this project [here](/INSTALL)
+
+Requirements: Read the instructions for more info, and get the latest up-to-date instructions [here](https://gist.github.com/seanpm2001/745564a46186888e829fdeb9cda584de)
+
+***
+
 ## Sponsor info
 
 ![SponsorButton.png](/SponsorButton.png)
@@ -161,7 +191,7 @@ All of my works are free some restrictions. DRM (**D**igital **R**estrictions **
 
 This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
 
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
+I am using the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
 
 This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
 
@@ -173,7 +203,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of Yr, DoW, Month, DoM, at ##:## a/pm)
 
 > * 2. No other contributers.
 
@@ -263,9 +293,9 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 **File type:** `Markdown Document (*.md *.mkd *.markdown)`
 
-File version: `0.1.5 (Monday, August 23rd 2021 at 6:11 pm)`
+**File version:** `0.1.6 (Monday, August 23rd 2021 at 6:37 pm)`
 
-Line count: `0,351`
+**Line count (including blank lines and compiler line):** `0,407`
 
 ***
 
@@ -321,6 +351,32 @@ Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
 
 > * Updated the file history section
 
+**ITERATION 6**
+
+> * Updated the title section
+
+> * Fixed and update template links
+
+> * Updated the index
+
+> * Added the copying section
+
+> * Added the credits section
+
+> * Added the installation section
+
+> * Updated the resources section
+
+> * Updated the contributors section
+
+> * Added the technical notes section
+
+> * Updated the footer
+
+> * Updated the file info section
+
+> * Updated the file history section
+
 > * No other changes in version 0.1
 
 Version 1 (Coming soon)
@@ -343,7 +399,7 @@ Version 2 (Coming soon)
 
 ### You have reached the end of the README file
 
-( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to DuckDuckGo](https://duckduckgo.com/) )
+( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) )
 
 ### EOF
 
